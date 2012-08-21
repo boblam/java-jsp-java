@@ -1,0 +1,97 @@
+username=progap
+password=1234
+servername=127.0.0.1
+typedriver=net.sourceforge.jtds.jdbc.Driver
+databasename=progap3
+
+aboutus.history=The Philippine Charity Sweepstakes Office (PCSO) is the principal government agency for raising and providing funds for health programs, medical assistance and services, and charities of national character.<br/>
+aboutus.history1=As a lottery franchise of PCSO, We are accredited to facilitate the 6/55 Lotto Game.
+aboutus.history2=The prize is fixed at 100,000,000.00PHP.
+aboutus.history3=We are also the one who need to settle the payment of the players.<br/>
+aboutus.history4=The Lottery store just started it's operations last July 2012 for the completion of requirements in PROGAP3.
+
+aboutus.org=Partners: <br/>
+aboutus.org1=Jan Laureano & Clarissa Anne Modesto<br/>
+aboutus.org2=School: De La Salle-Collegeof Saint Benilde<br/>
+aboutus.org3=Course: BS-Information System
+
+rules.htplay=<p>1.Go to LogIn/SignUp link.</p>
+rules.htplay2=<p>2.If you're already a member just put your email and password.</p>
+rules.htplay3=</p>3.If Not, Click the SignUp Link and register.</p>
+rules.htplay4=</p>4.If You're Logged in already you can now go to Place Bet Page</p>
+rules.htplay5=</p>5.You can now play by manually inserting in the blank boxes your six combination numbers.</p>
+rules.htplay6=</p>6.You can't input the same numbers.</p>
+rules.htplay7=</p>7.You can also used the lucky pick numbers and the system will give you an instant six number combinations.</p>
+rules.htplay8=</p>8.At the End of the day you can check again this site for the winning number of the day.</p>
+rules.htplay9=</p>9.You Must be 18 years old and above to play this game.</p>
+rules.htplay10=<p><h5>NOTE:</h5>You can PLAY anytime of the Day</p> 
+
+rules.htpay=<p>You have two choices in paying:</p>
+rules.htpay1=<p>1.Use GCASH and send it to 0925(607)(5672).</p>
+rules.htpay2=<p>2.You can also pay via credit card using paypal.</p>
+
+rules.htclaim=<p>1.If you won, we will contact you and you should go directly to the PCSO main office.</p>
+rules.htclaim1=<p>2.You need to present 2 valid ID's.</p>
+
+accredit=<center><b>BATAS PAMBANSA BLG. 42<br/>
+
+accredit1=Republic of the Philippines<br/>
+accredit1.1=BATASANG PAMBANSA<br/>
+accredit1.2=Second Regular Session<br/>
+
+accredit2=P. B. No. 622<br/>
+
+accredit2.1=[BATAS PAMBANSA BLG. 42]<br/>
+
+accredit2.2=AN ACT AMENDING THE CHARTER OF THE PHILIPPINE CHARITY SWEEPSTAKES OFFICE.</b></center><br/>
+
+accredit3=Be it enacted by the Batasang Pambansa in session assembled:<br/>
+
+accredit3.1=<b>SECTION 1.</b> Section one of Republic Act Numbered Eleven hundred and sixty-nine is hereby amended to read as follows:<br/>
+
+accredit3.2="SECTION 1. The Philippine Charity Sweepstakes Office. – The Philippine Charity Sweepstakes Office, hereinafter designated the Office, shall be the principal government agency for raising and providing for funds for health programs, medical assistance and services and charities of national character, and as such shall have the general powers conferred in section thirteen of Act Numbered One thousand four hundred fifty-nine, as amended, and shall have the authority:"<br/>
+
+accredit4="A. To hold and conduct charity sweepstakes races, lotteries, and other similar activities, in such frequency and manner, as shall be determined, and subject to such rules and regulations as shall be promulgated by the Board of Directors."<br/>
+
+accredit4.1="B. Subject to the approval of the Minister of Human Settlements, to engage in health and welfare-related investments, programs, projects and activities which may be profit-oriented, by itself or in collaboration, association or joint venture with any person, association, company or entity, whether domestic or foreign, except for the activities mentioned in the preceding paragraph (A), for the purpose of providing for permanent and continuing sources of funds for health programs, including the expansion of existing ones, medical assistance and services, and/or charitable grants: Provided, That such investments will not compete with the private sector in areas where investments are adequate, as may be determined by the National Economic and Development Authority."<br/>
+
+accredit4.2="C. To undertake any other activity that will enhance its funds generation operations and funds management capabilities, subject to the same limitations provided for in the preceding paragraph."<br/>
+
+accredit5="It shall have, a Board of. Directors, hereinafter designated the Board, composed of five members who shall be appointed, and whose compensation and term of office shall be fixed, by the President (Prime Minister)."<br/>
+
+accredit5.1=<b>SEC. 2.</b> Section six of Republic Act Numbered Eleven hundred and sixty-nine is hereby amended to read as follows:<br/>
+
+accredit5.2="SEC. 6 Allocation of Net Receipts. – From the gross receipts from the sale of sweepstakes tickets, whether for sweepstakes races, lotteries, or other similar activities, shall be deducted the printing cost of such tickets, which in no case shall exceed two percent of such gross receipts to arrive at the net receipts. The net receipts shall be allocated as follows:"<br/>
+
+accredit6="A. Fifty-five percent (55%) shall be set aside as a prize fund for the payment of prizes, including those for the owners, jockeys of running horses, and sellers of winning tickets."<br/>
+
+accredit6.1="Prizes not claimed by the public within one year from date of draw shall be considered forfeited, and shall form part of the charity fund for disposition as stated below."<br/>
+
+accredit6.2="B. Thirty percent (30%) shall be set aside as contributions to the charity fund from which the Board of Directors, in consultation with the Ministry of Human Settlements on identified priority programs, needs and requirements in specific communities and- with the approval of the Office of the President (Prime Minister), shall make payments or grants for health programs, including the expansion of existing ones, medical assistance and services and/or charities of national character, such as the Philippine National Red Cross, under such policies and subject to such rules and regulations as the Board may from time to time establish and promulgate. The Board may apply part of the contributions to the charity fund to approved investments of the Office pursuant to Section 1 (B) hereof, but in no case shall such application to investments exceed ten percent (10%) of the net receipts from the sale of sweepstakes tickets in any given year."<br/>
+
+accredit7="Any property acquired by an institution or organization with funds given to it under this Act shall not be sold or otherwise disposed of without the approval of the Office of the President (Prime Minister), and that in the event of its dissolution all such property shall be transferred to and shall automatically become the property of the Philippine Government."<br/>
+
+accredit7.1="C. Fifteen percent (15%) shall be set aside as contributions to the operating expenses and capital expenditures of the Office."<br/>
+
+accredit7.2="D. All balances of any funds in the Philippine Charity Sweepstakes Office shall revert to and form part of the charity fund provided for in paragraph (B), and shall be subject to disposition as above stated."<br/>
+
+accredit8="The disbursements of the allocations herein authorized shall be subject to the usual auditing rules and regulations."</br>
+
+accredit8.1=<b>SEC. 3.</b> Section nine of Republic Act Numbered Eleven hundred and sixty-nine is hereby repealed, and the following shall be inserted as the new provisions of Section nine, to read as follows.<br/>
+
+accredit8.2="SEC. 9. Powers and functions of the Board of Directors. – The Board of Directors of the Office shall have the following powers and functions:"<br/>
+
+accredit9="A. To adopt or amend such rules and regulations to implement the provisions of this Act."
+
+accredit9.1="B. Consistent with the purposes of this Act, to determine and approve the most effective organizational framework for the Office and its staffing pattern; to fix the salaries and determine the reasonable allowances, bonuses and other incentives of its officers and employees as may be recommended by the General Manager; and to prescribe the manner of hiring and compensating on a contractual basis such sales and other personnel as maybe required for its operations, subject to pertinent civil service and compensation laws."<br/>
+
+accredit9.2="C. To contract loans, credits and indebtedness, whether domestic or foreign, on such terms and conditions as it may deem appropriate for the accomplishment of its purposes, subject to applicable laws, rules and regulations."<br/>
+
+accredit10="D. To promulgate rules and regulations for the operation of the Office and to do such act or acts as may be necessary for the attainment of its purposes and objectives."<br/>
+
+accredit10.1=<b>SEC. 4.</b> All laws, decrees, and executive orders inconsistent with the provisions of this Act are hereby repealed or modified accordingly.<br/>
+
+accredit10.2=<b>SEC 5.</b> If for any reason whatsoever any portion or part of this Act is declared unconstitutional or invalid, the remaining portion or part not affected thereby shall remain in full force and effect.<br/>
+
+accredit11=<b>SEC. 6.</b> This Act shall take effect upon its approval. Approved, September 24, 1979.</p>
+			

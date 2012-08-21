@@ -1,0 +1,5 @@
+div, span { behavior: url('/css/iepngfix.htc'); }
+
+#view { background: none; }
+#content { width: 899px; }
+.box { width: 100%; float: left; }
